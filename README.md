@@ -5,7 +5,7 @@
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </p>
 
-> 🌱👨‍💻 - Interact with the page and with LocalStorage, created objects with JavaScript, logs data to LocalStorage and Implemented WEB pages that store data. I created the site using the Alura course.
+> 🌱 - I created a simple project for header navigation on a maximum screen of 1100px.
 
 
 ## Download
